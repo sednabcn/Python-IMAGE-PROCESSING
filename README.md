@@ -17,7 +17,7 @@ To explore and implement deep learning techniques for image classification, obje
 
 # Technologies Used:
 Programming Language: Python
-Deep Learning Frameworks: TensorFlow, Keras, PyTorch
+Deep Learning Frameworks: TensorFlow, Keras
 Pre-trained Models: VGG16, VGG19, ResNet50, InceptionV3, FACENET
 Image Processing Libraries: OpenCV, PIL (Pillow), NumPy, Matplotlib
 Data Augmentation Techniques: Keras ImageDataGenerator
